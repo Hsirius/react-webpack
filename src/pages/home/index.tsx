@@ -16,7 +16,7 @@ const Home = () => {
     <div className={styles.content}>
       <h1 className={styles.title}>
         <CoffeeOutlined className={styles.icon} />
-        <span>welcome use sailei-cli 12345</span>
+        <span>welcome use sailei-cli 123456</span>
       </h1>
       <h3 className={styles.count}>count: {count}</h3>
       <Space>
