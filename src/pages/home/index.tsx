@@ -18,7 +18,7 @@ const Home = () => {
         <CoffeeOutlined className={styles.icon} />
         <span>welcome use sailei-cli 123</span>
       </h1>
-      <h3 className={styles.count}>count1234: {count}</h3>
+      <h3 className={styles.count}>count12: {count}</h3>
       <Space>
         <Button onClick={() => dispatch(increment())}>Increment</Button>
         <Button onClick={() => dispatch(decrement())}>Decrement</Button>
